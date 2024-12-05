@@ -1,5 +1,5 @@
 import { emitter } from "../App";
-
+// check package mitt
 const Buttons = (props) => {
   const onIncrementCounter = () => {
     emitter.emit("increment");
