@@ -1,0 +1,12 @@
+functional programming usecase
+
+.controlled 
+.functional components
+.HOCs
+.Recursive components
+.Partial components
+.Composition componenents
+
+
+.Recursive
+A components that calls itsself from inside itself
