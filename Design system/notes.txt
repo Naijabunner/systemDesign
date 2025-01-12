@@ -1,0 +1,24 @@
+***
+Why you need Design system
+Accesibility
+Consistency
+frequent update
+onboarding
+speed
+
+****
+
+btn:types,sizes,colors
+
+
+
+Design checklist for every component
+*Accessibility
+*Interaction //// what should happen on interaction 
+*Context //where it will used
+*Completion /// complete
+*Content///take contnet or givr content
+*Customization
+*Resolution
+
+Accesibility *Keyboard navigation *responsiveness *Errorhanding * Browsers(polyfills)
